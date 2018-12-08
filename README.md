@@ -1,2 +1,4 @@
 # DAND_Udacity
-Projects for Udacity's Data Analyst Nanodegree
+Udacity's Data Analyst Nanodegree Projects
+
+Investigate a Dataset
